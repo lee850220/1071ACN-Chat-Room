@@ -27,4 +27,4 @@ Handle input:
     Disconnection
 
 ## DEMO
-![123](https://github.com/lee850220/107ACN-Chat-Room/edit/main/README.md)
+![](https://github.com/lee850220/107ACN-Chat-Room/blob/main/2018-10-10_053434.PNG)
