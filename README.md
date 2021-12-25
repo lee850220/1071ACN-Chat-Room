@@ -24,8 +24,6 @@ Disconnection
 Environment:  
 You can practice construct 4 host on the mininet and they can "ping" each other.
 
-Other example to view [2018 Advanced Computer Networks Homework 3.pdf](https://github.com/lee850220/1071-NSYSU_Advanced_Computer_Network/blob/master/HW3/2018%20Advanced%20Computer%20Networks%20Homework%203.pdf) in detail. 
-
 - - -
 
 ## ChangeLog
